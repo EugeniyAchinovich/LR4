@@ -8,7 +8,7 @@ using System.Xml;
 using System.Xml.Schema;
 using System.Xml.Serialization;
 
-using DataBase_Models; // пользовательская директория
+using DB_Table; // пользовательский namespace
 
 namespace XML_Generator
 {
